@@ -20,6 +20,10 @@ Functions :
 
 ![image](https://github.com/user-attachments/assets/9843e387-8b1a-43d4-9949-54af697f1155)
 
+![image](https://github.com/user-attachments/assets/8ea991c2-444c-45c9-8e88-7690aed272e3)
+
+![image](https://github.com/user-attachments/assets/0d691bcb-2f13-4979-a7df-84fabb9e0be5)
+
 ![image](https://github.com/user-attachments/assets/bab13e41-5427-4ca0-ac19-cf17ab2e8f49)
 
 ![image](https://github.com/user-attachments/assets/e13eb4c9-8921-4f25-8c53-3a6bb50b9b68)
