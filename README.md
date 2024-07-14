@@ -1,10 +1,10 @@
 **Live Chat Application**
 
 **Used Technology :**
->PHP
->MySQL
->JavaScript
->CSS
+PHP
+MySQL
+JavaScript
+CSS
 
 <hr>
 
