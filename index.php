@@ -9,7 +9,7 @@
 <body>
   <div class="wrapper">
     <section class="form signup">
-      <header>Realtime Chat App</header>
+      <header>Live Chat App</header>
       <form action="#" method="POST" enctype="multipart/form-data" autocomplete="off">
         <div class="error-text"></div>
         <div class="name-details">

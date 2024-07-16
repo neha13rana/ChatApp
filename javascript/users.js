@@ -3,13 +3,14 @@ searchIcon = document.querySelector(".users .search button");
 usersList = document.querySelector(".users-list");
 
 searchIcon.onclick = ()=>{
-  searchBar.classList.toggle("show");
+  // searchBar.classList.toggle("show");
   searchIcon.classList.toggle("active");
   searchBar.focus();
-  if(searchBar.classList.contains("active")){
+  searchIcon.classList.toggle("active");
+  // if(searchBar.classList.contains("active")){
     searchBar.value = "";
-    searchBar.classList.remove("active");
-  }
+  //   searchBar.classList.remove("active");
+  // }
 }
 
 searchBar.onkeyup = ()=>{
@@ -26,6 +27,7 @@ searchBar.onkeyup = ()=>{
         if(xhr.status === 200){
           let data = xhr.response;
           usersList.innerHTML = data;
+          // console.log(data);
         }
     }
   }
@@ -40,9 +42,11 @@ setInterval(() =>{
     if(xhr.readyState === XMLHttpRequest.DONE){
         if(xhr.status === 200){
           let data = xhr.response;
+          // console.log(data);
+          // usersList.innerHTML
           if(!searchBar.classList.contains("active")){
             usersList.innerHTML = data;
-          }
+          } 
         }
     }
   }
