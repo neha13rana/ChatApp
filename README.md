@@ -28,5 +28,13 @@ Functions :
 
 ![image](https://github.com/user-attachments/assets/e13eb4c9-8921-4f25-8c53-3a6bb50b9b68)
 
+![image](https://github.com/user-attachments/assets/c0a1db04-1c3e-43a6-9e44-bd509fb7120a)
+
+![image](https://github.com/user-attachments/assets/077a986e-a560-4c81-8980-6ad95c473371)
+
+![image](https://github.com/user-attachments/assets/00b36182-611d-4b74-a09c-6719ee333656)
+
+
+
 <hr>
 
