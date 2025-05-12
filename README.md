@@ -84,24 +84,4 @@ Ensure you have the following installed:
 
 ---
 
-## Contribution
-
-Contributions are welcome! Follow these steps to contribute:
-
-1. Fork the repository.
-2. Create a new branch:
-   ```bash
-   git checkout -b feature-name
-   ```
-3. Commit your changes:
-   ```bash
-   git commit -m "Add feature or fix description"
-   ```
-4. Push to your branch:
-   ```bash
-   git push origin feature-name
-   ```
-5. Open a pull request.
-
----
 
